@@ -27,6 +27,27 @@
     * 목차
     * 가운데 정렬
     
+    TextArea가 2개인 Editor 제작  
+    TextArea : TextArea_1, TextArea_2 2개가 있다.  
+    
+    일단은 Text Editor 가져다가 수정해보고 안되면 직접만들기  
+    
+    만들기  
+    1. 텍스트파일을 TextArea에 출력하기  
+    중요 : file 읽고 쓰기 (Ajax, react.js)
+    읽고 쓸때 강조, 글씨체, 하이라이트 HTML로 읽고쓰기
+    
+    
+    file 수정  
+    html로 읽고 쓰기  
+    
+    Drag And Drop   
+    
+       
+    
+    
+    
+    
 ## 4. 검색
 
 ## 5. 북마크
